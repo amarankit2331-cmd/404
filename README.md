@@ -1,16 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to your AI project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e6e27e0c-188e-4ab5-bd62-1b604a329925
+**URL**: https://website-wizard-1.preview.emergentagent.com/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Emergent*
 
-Simply visit the [Lovable Project](https://website-wizard-1.preview.emergentagent.com/)and start prompting.
+Simply visit the (https://website-wizard-1.preview.emergentagent.com/)and start prompting.
 
 Changes made will be committed automatically to this repo.
 
@@ -63,4 +63,5 @@ This project is built with:
 ## How can I deploy this project?
 
 Simply open (https://website-wizard-1.preview.emergentagent.com/) and click on Share -> Publish.
+
 
