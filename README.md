@@ -10,9 +10,9 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/e6e27e0c-188e-4ab5-bd62-1b604a329925) and start prompting.
+Simply visit the [Lovable Project](https://website-wizard-1.preview.emergentagent.com/)and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +62,5 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/e6e27e0c-188e-4ab5-bd62-1b604a329925) and click on Share -> Publish.
+Simply open (https://website-wizard-1.preview.emergentagent.com/) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
